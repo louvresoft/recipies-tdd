@@ -1,2 +1,3 @@
 
-# docker build .
+# Compilar docker file
+docker build .
